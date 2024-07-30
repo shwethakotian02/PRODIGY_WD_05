@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Weather Station</title>
+</head>
+<body>
+    <div class="container">
+        <div class="search">
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
+            <input type="search" placeholder="enter your location">
+            <button><i class="fa fa-search" aria-hidden="true"></i></button>
+        </div>
+
+        <p class="city-hide">city hide</p>
+
+        <div class="weather-box">
+            <div class="box">
+                <div class="weather-info">
+                    <div class="weather">
+                        <img src="images/cloudnew.webp" alt="">
+                        <p class="temparature">0<span>°C</span></p>
+                        <p class="description">broken cloud</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="weather-details">
+            <div class="humidity">
+                <box-icon name='water'></box-icon>
+                <div class="text">
+                    <div class="humidity-info">
+                        <span>0%</span>
+                    </div>
+                    <p>humidity</p>
+                </div>
+            </div>
+            <div class="wind">
+                <box-icon type='logo' name='tailwind-css'></box-icon>
+                <div class="text">
+                    <div class="wind-info">
+                        <span>0Km/h</span>
+                    </div>
+                    <p>wind speed</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="not-found">
+            <div class="box">
+                <img src="images/notfound.jpg" alt="">
+                <p>Oops! Location Not Found</p>
+            </div>
+        </div>
+    </div>
+    <script src='weather.js'></script>
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+</body>
+</html>
