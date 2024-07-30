@@ -1,5 +1,5 @@
 # PRODIGY_WD_05
-<b>Weather Application</b>
+<b>Weather Application</b><br>
 This weather application fetches weather data from a weather<br>
 API based on a user inputted location. It displays current weather<br>
 conditions, temperature and other relevant information in a<br>
