@@ -3,7 +3,7 @@
 This weather application fetches weather data from a weather<br>
 API based on a user inputted location. It displays current weather<br>
 conditions, temperature and other relevant information in a<br>
-clean and responsive interface<br>
+clean and responsive interface<br><br>
 <b>Features</b>
 <ul>
   <li><b>Search Functionality:</b>Allows users to input a location to get weather data.</li>
