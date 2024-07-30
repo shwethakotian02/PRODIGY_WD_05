@@ -11,7 +11,7 @@ clean and responsive interface<br><br>
   <li><b>Responsive Design:</b>Optimized for various screen sizes and devices.</li>
   <li><b>User-Friendly Interfaces:</b>Simple and intuitive desugn for ease of use.</li>
 </ul><br>
-<b>Technologies Used</b><br>
+<b>Technologies Used</b><br><br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
