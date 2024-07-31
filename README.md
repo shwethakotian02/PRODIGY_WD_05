@@ -9,7 +9,7 @@ clean and responsive interface<br><br>
   <li><b>Search Functionality:</b>Allows users to input a location to get weather data.</li>
   <li><b>Real-Time Updates:</b>Displays current weather conditions and temperature.</li>
   <li><b>Responsive Design:</b>Optimized for various screen sizes and devices.</li>
-  <li><b>User-Friendly Interfaces:</b>Simple and intuitive desugn for ease of use.</li>
+  <li><b>User-Friendly Interfaces:</b>Simple and intuitive design for ease of use.</li>
 </ul><br>
 <b>Technologies Used</b><br><br>
 <ul>
